@@ -1,0 +1,5 @@
+name: 'Compiler'
+description: 'release to compile CV'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
